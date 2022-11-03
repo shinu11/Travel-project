@@ -5,11 +5,6 @@
 You can travel anywhere with this website.it helps you to reach out where you want to go.
 
 
-## Demo
-
-http://127.0.0.1:8000/
-
-
 ## Authors
 
 - [@shinu11](https://github.com/shinu11)
