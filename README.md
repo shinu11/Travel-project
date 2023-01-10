@@ -1,6 +1,6 @@
-![Logo]("D:\movies\Screenshot (4).png")
 
-![Screenshot (3)](https://user-images.githubusercontent.com/115803782/211486746-5462552c-bacf-4869-b106-9a41eb273024.png)
+
+![Screenshot (3)![Screenshot (4)](https://user-images.githubusercontent.com/115803782/211487252-5c5f1832-62ea-4038-9018-8bfc46790d8f.png)
 
 # Travello
 You can travel anywhere with this website.it helps you to reach out where you want to go.
