@@ -1,6 +1,7 @@
+#Home page
+![Screenshot (4)](https://user-images.githubusercontent.com/115803782/211740444-ac73d404-c5a5-439c-bbc7-3570f587aae2.png)
+![2](https://user-images.githubusercontent.com/115803782/211740720-a68c6558-bd35-4fc3-b60e-4fba406ac0ea.png)
 
-
-![Screenshot (3)![Screenshot (4)](https://user-images.githubusercontent.com/115803782/211487252-5c5f1832-62ea-4038-9018-8bfc46790d8f.png)
 
 # Travello
 You can travel anywhere with this website.it helps you to reach out where you want to go.
